@@ -6,3 +6,5 @@ let isMarried :boolean = false
 //Rule of thumb: If the value is obvious, let TypeScript infer. Write types explicitly when it's not obvious (function params, return values, etc.)
 let city= "dhaka"
 let score =95
+
+
